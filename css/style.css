@@ -1,0 +1,9 @@
+body {background-color:#ff0;}
+
+p {
+color: #fff; 
+font-family:Open sans condensed;
+font-size: 23px;
+text-shadow: 3px 4px 2px #81d6a6;
+text-align:center;}
+span {text-transform: lowercase;}
